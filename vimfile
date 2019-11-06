@@ -1,3 +1,4 @@
+syntax on
 filetype plugin indent on 	" Enable file type based indentation
 
 set autoindent 			" Respect indentation when starting a new line
