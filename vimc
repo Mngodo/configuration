@@ -11,14 +11,11 @@ set syntax=sh
 
 set backspace=2 		" Fix backspace behaviour on most terminals.
 
-set directory=$HOME/.vim/swap//
-
 syntax enable
 " set background=dark
 " colorscheme solarized
 
 packloadall             " Load all plugins.
 silent! helptags ALL    " Load help files for all plugins.
-
-colorscheme koehler  
+  
 
