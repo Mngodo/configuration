@@ -18,4 +18,4 @@ syntax enable
 packloadall             " Load all plugins.
 silent! helptags ALL    " Load help files for all plugins.
   
-
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3+EcLWL7RsnHxOw9TICx46jg0EuPSRgDwx6lVZQXdGjHqLIN2jZDAlqTJfjr9qSmnxElWr4z7/q54IA9tSYfOb144QxnvhKzSOSDOLiYOgRVv6f1AJR2KYH7W+3tgZjNu+E4+3eGaulgGs5wDzSQKSYsmkV76cHuqZ06f6JhVdnK9laaWPRiQXxTQhpW2PST585ImZCXL9a2YQFl1U+f9S7I1tmsJhmIA1rIqH1tku7aCxwoUgUrUwYk6DVtebiRUhr+jJ/Q5+T0ICtV6WHGPF71kiwWHlxubtNjS7LB6D/WVfNjB5XouPP6wbXAH2VhirbPh6Hqyv06qTF4WA2V7 prexe@Machine
