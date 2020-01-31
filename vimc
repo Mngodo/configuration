@@ -1,10 +1,10 @@
+set nocompatible
 syntax on
 filetype plugin indent on 	" Enable file type based indentation
+execute pathogen#infect()
 
 set autoindent 			" Respect indentation when starting a new line
-set expandtab			" Expand tabs to spaces.
 set tabstop=4			" Number of spaces tab is counted for.
-set shiftwidth=4		" Number of spaces to use for indentation
 set hlsearch			" Searching through vim
 set nu 				" Number lines 
 set syntax=sh
@@ -15,6 +15,7 @@ syntax enable
 " set background=dark
 " colorscheme solarized
 
-packloadall             " Load all plugins.
-silent! helptags ALL    " Load help files for all plugins.
-  
+au bufnewfile *.sh 0r /home/prexe/.vim/sh_header.temp
+
+let g:airline_powerline_fonts = 1
+
