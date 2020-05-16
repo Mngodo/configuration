@@ -18,3 +18,4 @@ syntax enable
 au bufnewfile *.sh 0r /home/prexe/.vim/sh_header.temp
 
 let g:airline_powerline_fonts = 1
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQChaUr7r7nVgjyB1WhxImRdY/x2EBhbesE706Y3sndhP/tPKrCPvqj82zOtcNrwAUhmsljGtjEK+Ag21H0gD7Cp5XoGLXAwpy93S2SKvncHbfLogrA4p5P3Fr+6oPel282TNAeQ9e1HzpIuaJx6zUSyeLBICumaPO7gneCiI4KOTArxDPZEv8Jdal4LhhRciMAUzx9vn40Rmh+zRtdlGbwmxAU2mRwenjl2arKL53K/kLyLy7GrORI7ahEaIDB+/UrN712jREjIFqvcsvhqYrqzEJ3fVe3aYqV09nGOjAgnGUgAyJ55rVLTMI6DKHV+oWU56iWTN6AF2ddr0vhBB/85 prexe@WinBox
