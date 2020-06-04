@@ -15,7 +15,5 @@ syntax enable
 " set background=dark
 " colorscheme solarized
 
-au bufnewfile *.sh 0r /home/prexe/.vim/sh_header.temp
-
 let g:airline_powerline_fonts = 1
 
