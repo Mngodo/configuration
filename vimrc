@@ -12,8 +12,8 @@ set syntax=sh
 set backspace=2 		" Fix backspace behaviour on most terminals.
 
 syntax enable
-" set background=dark
+set background=dark
 " colorscheme solarized
 
 let g:airline_powerline_fonts = 1
-
+set t_Co=256
